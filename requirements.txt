@@ -1,0 +1,28 @@
+# Web Framework and Extensions
+Flask==3.0.3
+Flask-Login==0.6.3
+Flask-SQLAlchemy==3.1.1
+Flask-WTF==1.2.1
+Flask-Migrate==4.0.7
+Werkzeug==3.0.2
+WTForms==3.1.2
+
+# Database
+SQLAlchemy==2.0.29
+PyMySQL==1.1.0
+mysql-connector-python==8.3.0
+
+# AI/ML Dependencies
+langchain==0.1.16
+langchain-core==0.1.42
+openai==1.17.1
+pydantic==2.7.0
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.31.0
+pytube==15.0.0
+youtube-transcript-api==0.6.2
+
+# Deployment
+gunicorn==21.2.0
